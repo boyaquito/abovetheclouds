@@ -1,2 +1,2 @@
-# avobetheclouds
-A realtime 3D journy around the Earth
+# AboveTheClouds
+A realtime 3D journey around the Earth
